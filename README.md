@@ -1,3 +1,10 @@
+# Instructions
+create src/config.js file and add 
+## `const googleApiKey = "YOUR_API_KEY"`
+then 
+### `npm install`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
